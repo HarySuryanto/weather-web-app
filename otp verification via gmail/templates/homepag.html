@@ -1,0 +1,10 @@
+{% extends "base.html" %} 
+{% block head %}
+<title>index</title>
+{% endblock %} 
+{% block body %}
+<form action="/verify" method="POST">
+  Email address: <input type="email" name="email" placeholder="enter your email"/>
+  <input type="submit" value="Submit" />
+</form>
+{% endblock %}
