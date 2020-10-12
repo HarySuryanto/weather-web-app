@@ -27,7 +27,7 @@
 
         <p class="font-weight-bold">Mohon lakukan refresh hingga halaman berhasil ditampilkan atau sebanyak maksimal 5 kali, dengan memberi jeda 5 detik setiap melakukan refresh. 🔃</p>
 
-        <p>Jika sudah melakukan refresh berulang kali dan halaman tetap tidak ditampilkan, besar kemungkinan limit akses API telah tercapai. Kami menggunakan API dengan paket gratis yang mana aksesnya dibatas yaitu 150 request perhari. Mohon akses dihari lain. Mohon maaf atas ketidaknyamanannya. 🙏</p>
+        <p>Jika sudah melakukan refresh berulang kali dan halaman masih tidak berhasil tampil, besar kemungkinan limit akses API telah tercapai. Kami menggunakan API dengan paket gratis yang mana aksesnya dibatas yaitu 150 request per hari. Mohon akses di lain hari. Mohon maaf atas ketidaknyamanannya. 🙏</p>
     </div>
 </div>
 
