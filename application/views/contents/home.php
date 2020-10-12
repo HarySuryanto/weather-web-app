@@ -98,7 +98,8 @@
                     </div>
                     <p class="text-center mb-1"><?= $forecasts_5day[$row]['Day']['IconPhrase'] ?></p>
                     <div class="row m-0 justify-content-center">
-                        <p class="mb-0 mr-1"><?= ($forecasts_5day[$row]['Temperature']['Maximum']['Value'] + $forecasts_5day[$row]['Temperature']['Minimum']['Value']) / 2 ?>°C</p>
+                        <p class="mb-0 mr-1">
+                            <?= ($forecasts_5day[$row]['Temperature']['Maximum']['Value'] + $forecasts_5day[$row]['Temperature']['Minimum']['Value']) / 2 ?>°C</p>
                         <p class="mb-0 text-muted"><?= ($forecasts_5day[$row]['RealFeelTemperature']['Maximum']['Value'] + $forecasts_5day[$row]['RealFeelTemperature']['Minimum']['Value']) / 2 ?>°C</p>
                     </div>
                 </div>
